@@ -1,4 +1,4 @@
-# React Pagination
+# React Js Front End App by Mandela Shaban
 
 > Pagination Assigment with js 
 

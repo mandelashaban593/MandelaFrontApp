@@ -1,6 +1,4 @@
-# React Pagination
-
-> Pagination Assigment with js 
+# React Js Front End App by Mandela Shaban
 
 Steps of running the app
 
@@ -8,4 +6,4 @@ Steps of running the app
 2. npm start.
 
 
-You can either run the app in chrome or opera  or firefox browser# MandelaFrontApp
+You can either run the app in chrome or opera  or firefox browser #MandelaFrontApp

@@ -1,7 +1,5 @@
 # React Js Front End App by Mandela Shaban
 
-> Pagination Assigment with js 
-
 Steps of running the app
 
 1. npm install
